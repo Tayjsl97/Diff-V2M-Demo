@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation"
+description: "Shulei Ji, Zihao Wang, Jiaxing Yu, Xiangyuan Yang, Shuyu Li, Songruoyao Wu, Kejun Zhang\nZhejiang University"
 ---
 <style>
 /* 修改页面主标题字体大小 */
